@@ -1,2 +1,2 @@
 # Prediction_Supervisied_ML
-Task 1 project in spark foundation intership
+Data Science and Business Analtics task 1 project in spark foundation intership
